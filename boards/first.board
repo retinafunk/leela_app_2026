@@ -2,12 +2,12 @@
     "canvases": [
         {
             "x": 500.0,
-            "y": 200.0,
+            "y": 198.0,
             "w": 393.0,
             "h": 808.0,
-            "widget": "const HomePage()",
+            "widget": "const LeelaHome()",
             "deps": [
-                "lib/pages/home_page.dart"
+                "lib/pages/leela_home.dart"
             ]
         }
     ]
